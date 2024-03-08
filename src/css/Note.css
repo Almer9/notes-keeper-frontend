@@ -1,0 +1,7 @@
+.note{
+display: flex;
+gap: 50px;
+}
+.noteCol{
+display: inline-block;
+}

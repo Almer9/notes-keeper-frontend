@@ -1,0 +1,17 @@
+.notesArea{
+    background-color: white;
+    height: fit-content;
+    max-height: 600px;
+    overflow-y: scroll;
+}
+.notes{
+    display: flex;
+    gap: 20px;
+}
+.detailedNote{
+    
+    background-color: white;
+    height: fit-content;
+    width: 200px;
+    word-wrap: break-word;
+}

@@ -1,0 +1,25 @@
+.form{
+  padding: 10px 20px;
+  display: block;
+  height: fit-content;
+}
+.row{
+ margin: 10px 0;
+ display: flex;
+ column-gap: 10px;
+}
+#authorLabel{
+font-family: 'Times New Roman', Times, serif;
+}
+#author{
+ border-radius: 20px;
+ border: 0px;
+ height: 32px;
+ width: 100%;
+}
+#note{
+ width: 300px;
+ height: 150px;
+ max-width: 500px;
+ max-height: 600px;
+}
